@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="24" height="24" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="tilesets1" tilewidth="64" tileheight="32">
+  <image source="iso-64x64-outside.png" width="640" height="1024"/>
+ </tileset>
+ <tileset firstgid="321" name="isometric tiles" tilewidth="64" tileheight="64">
+  <image source="iso-64x64-outside.png" width="640" height="1024"/>
+ </tileset>
+ <tileset firstgid="481" name="tilesets2" tilewidth="32" tileheight="64">
+  <image source="iso-64x64-outside.png" width="640" height="1024"/>
+ </tileset>
+ <tileset firstgid="801" name="isometric tiles 2" tilewidth="64" tileheight="64">
+  <image source="iso-64x64-outside.png" trans="ffffff" width="640" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzzZWRgMGGgDLsyYmKQOAgYAzEPlTDMvghGCL+Lkbrmw/Co+YPLfEdG3Gp1mGlvvh4WbA7ERjjsJsV8PagZKswQrMyMYJsSaT4+v+ohmQczX5XG5uNyPywcSDVfFc0ObOYjhzEp5qvS2HxYetEHYjMkrI9mNrnmE4PR0x81zUd3Oy3cT0n6HArmU9sOZPOdgTicytgPzXxTBuIwqf4AmQ8C+UwMDD2M1Mcg8wGtBlB8
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgeYDIzbjyRGaImBY8aGJ7CjNv8ahxyILCeGYKJcScp4qQCYsxfyIwb74RidPGBdv8EHOLpQPE1JNhNjDtB/l0AVbcah/p5aOEJAyB3JhOwA6Z+FZq6bUj8mTjMJwZgU78VjxnEmD8NzT0bkPhbkNizgOwDaOYRYz56+sQGQGbvZ4bQuMwnNv3DwC4k9j6o2dQ0fwaR6Y0U87GBuUD52VA8B4/awV7+gPBSKF42iMofkHg6FezAZf4kAvXSRCR9UwmoHQ6gjU7+AABUA1Io
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDGawmHmgXUAdsHaY+GP7MPHHKBgFIx0AAGseAhE=
+  </data>
+ </layer>
+</map>
